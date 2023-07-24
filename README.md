@@ -1,1 +1,2 @@
 # prototypeinjavascript
+<!-- What is prototype -->
